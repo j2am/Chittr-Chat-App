@@ -21,8 +21,17 @@ npx react-native run-android
 ```
 
 
-## Protoypes
-Located in same directory
+## Screenshots
+Profile
+<table><tr><td>
+    <img src="https://github.com/HelloWebs/Chittr-Chat-App/blob/main/Chittr%202.png?raw=true" />
+</td></tr></table>
+Home
+<table><tr><td>
+    <img src="https://github.com/HelloWebs/Chittr-Chat-App/blob/main/Chittr.png?raw=true" />
+</td></tr></table>
+
+
 
 # Author
 @me Jamshid Nazari
